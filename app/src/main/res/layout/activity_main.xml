@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/scanner_qr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="扫描二维码" />
+
+    <EditText
+        android:id="@+id/et_qr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入要生成二维码的字符串"/>
+
+    <Button
+        android:id="@+id/creater_qr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="生成二维码" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="二维码图像展示"/>
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:background="#8ff4f4"
+        />
+
+
+</LinearLayout>

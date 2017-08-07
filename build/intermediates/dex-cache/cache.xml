@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/android/CODE/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2aa554279aa2eaabb71f6f96fe1bc25f2af3546e">
+        <dex dex="/Users/Mac/android/CODE/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1c83e2bcc2cf5bfb4c6d7a71fe2c08ec0def733d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/android/CODE/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/Mac/android/CODE/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.0.0-alpha1_e51122e22224c76380b9d82dfb21077bf59b8250/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/android/CODE/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/Mac/android/CODE/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.0.0-alpha1_e0ebf7a07f8151f7fa5574d7f625a7043450481b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/Mac/android/CODE/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_2198ede1890de095b109783b60c0041c8d6c8be7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/android/CODE/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/Mac/android/CODE/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.0.0-alpha1_d1f29d830043affaeed2d2b8c01a6c23475d727a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/android/CODE/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ec8c621443655bca8c530a31c21a30df5ac722e">
+        <dex dex="/Users/Mac/android/CODE/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8c568a7545ce8a978dccdd43418848615eb75907/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/android/CODE/app/libs/ZxingScanner.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1db808b8db2b808e9219aaab92b0a1bd10b567ab">
+        <dex dex="/Users/Mac/android/CODE/app/build/intermediates/transforms/dex/debug/folders/1000/2/ZxingScanner_322f8705d97a3a48fb11e155dd8f7241ae6412a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/android/CODE/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/Mac/android/CODE/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.0.0-alpha1_e0e00b3c892980ccdb9c700190b66adb2c2716b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/android/CODE/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/Mac/android/CODE/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.0.0-alpha1_2e4bb2ff253224bd3a5dfc0d050c3a5de9058057/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/android/CODE/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/Mac/android/CODE/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.0.0-alpha1_6cc708da573b67b97cca5ab519406c0e204b90dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/android/CODE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/Mac/android/CODE/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.0.0-alpha1_56c15cf8545368a561396b8e66c4f4ea2daa4e50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/android/CODE/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Mac/android/CODE/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.0.0-alpha1_8d9092ed6750f42172c48f6412128250734cd595/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/android/CODE/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/Mac/android/CODE/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.0.0-alpha1_12a1b39f773a8abd44861e9fd5729a3864d347a4/classes.dex" />
+    </item>
+
+</items>
