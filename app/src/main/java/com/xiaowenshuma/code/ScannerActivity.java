@@ -56,7 +56,6 @@ public class ScannerActivity extends AppCompatActivity implements OnDecodeComple
 
         super.onResume();
         scannerView.onResume();
-        //////
 
     }
 
